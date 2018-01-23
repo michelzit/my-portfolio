@@ -6,3 +6,7 @@ This is my professional portfolio
 Chocolatey(Windows) (brew)
 Git and Github
 SSH
+html
+css
+fontawesome
+Google fonts
