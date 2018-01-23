@@ -3,5 +3,6 @@ This is my professional portfolio
 
 ## Technologies Esed
 
+Chocolatey(Windows) (brew)
 Git and Github
 SSH
